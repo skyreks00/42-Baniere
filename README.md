@@ -23,7 +23,7 @@ GitHub ajoute automatiquement un **bouton de copie** en haut à droite des blocs
 
 **Copier le lien d'intégration :**
 ```html
-"https://raw.githubusercontent.com/skyreks00/42-Baniere/main/Super%20smash%20Bros.gif"
+https://raw.githubusercontent.com/skyreks00/42-Baniere/main/Super%20smash%20Bros.gif
 ```
 
 ---
@@ -36,7 +36,7 @@ GitHub ajoute automatiquement un **bouton de copie** en haut à droite des blocs
 
 **Copier le lien d'intégration :**
 ```html
-"https://raw.githubusercontent.com/skyreks00/42-Baniere/main/cars.gif"
+https://raw.githubusercontent.com/skyreks00/42-Baniere/main/cars.gif
 ```
 
 ---
@@ -49,7 +49,7 @@ GitHub ajoute automatiquement un **bouton de copie** en haut à droite des blocs
 
 **Copier le lien d'intégration :**
 ```html
-"https://raw.githubusercontent.com/skyreks00/42-Baniere/main/sabrina.gif"
+https://raw.githubusercontent.com/skyreks00/42-Baniere/main/sabrina.gif
 ```
 
 ---
