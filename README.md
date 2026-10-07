@@ -1,59 +1,33 @@
-<h1 align="center">🚩 42 Bannières Animées</h1>
+# 42-Baniere
 
-<p align="center">
-  Une collection de bannières animées (GIFs) stylées pour pimper ton profil intranet 42 !
-</p>
+Quelques bannières animées (GIF) pour personnaliser ton profil sur l'intra 42.
 
-## 🛠️ Comment utiliser ?
+Pour en utiliser une, copie le lien affiché sous la bannière (bouton de copie à droite du bloc) et colle-le dans les réglages de ton profil intra.
 
-GitHub ajoute automatiquement un **bouton de copie** en haut à droite des blocs de code. 
-1. Survole le bloc de code sous la bannière qui te plaît.
-2. Clique sur l'icône de copie (📋).
-3. Colle le code directement dans la section "À propos" (About) de ton profil intra 42 !
+## Super Smash Bros
 
-*(Note: Le code fourni utilise une balise HTML `<img>` avec `width="100%"` pour que la bannière s'adapte parfaitement à la largeur de ton profil).*
+![Super Smash Bros](Super%20smash%20Bros.gif)
 
----
-
-### 🎮 Super Smash Bros
-
-<p align="center">
-  <img src="./Super%20smash%20Bros.gif" alt="Super Smash Bros">
-</p>
-
-**Copier le lien d'intégration :**
-```html
+```text
 https://raw.githubusercontent.com/skyreks00/42-Baniere/main/Super%20smash%20Bros.gif
 ```
 
----
+## Cars
 
-### 🏎️ Cars
+![Cars](cars.gif)
 
-<p align="center">
-  <img src="./cars.gif" alt="Cars">
-</p>
-
-**Copier le lien d'intégration :**
-```html
+```text
 https://raw.githubusercontent.com/skyreks00/42-Baniere/main/cars.gif
 ```
 
----
+## Sabrina
 
-### 🧙‍♀️ Sabrina
+![Sabrina](sabrina.gif)
 
-<p align="center">
-  <img src="./sabrina.gif" alt="Sabrina">
-</p>
-
-**Copier le lien d'intégration :**
-```html
+```text
 https://raw.githubusercontent.com/skyreks00/42-Baniere/main/sabrina.gif
 ```
 
----
+## Proposer une bannière
 
-<p align="center">
-  <i>✨ N'hésite pas à mettre une étoile (star) sur ce repo GitHub si ces bannières te plaisent ! ✨</i>
-</p>
+Tu as un GIF qui irait bien ici ? Ouvre une issue avec le lien, ou une pull request qui ajoute le fichier et sa section dans ce README.
